@@ -1,0 +1,4 @@
+export
+cosmosdb-import-export
+.env
+.DS_Store
